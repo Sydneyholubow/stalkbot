@@ -1,0 +1,19 @@
+{
+  "data":[
+    {
+      "id":"CNN",
+      "url":"http://http://www.cnn.com/",
+      "keyphrases":["BUSINESS","NATIONAL"]
+    },
+    {
+      "id":"Google",
+      "url":"http://www.google.com",
+      "keyphrases":["Google"]
+    },
+    {
+      "id":"Yahoo",
+      "url":"http://www.yahoo.com",
+      "keyphrases":["Mail"]
+    }
+  ] 
+}
